@@ -36,6 +36,8 @@ All notebooks are interactive and can be run in Jupyter or Colab.
 
 The `data/` folder contains training and test sets. 
 
+Use `gunzip inputs.npy.gz` to decompress the required input set.
+
 > Note: Trained model files and datasets are provided selectively due to their large size. Users can train models using the notebooks.
 
 ---
